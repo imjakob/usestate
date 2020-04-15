@@ -113,6 +113,7 @@ function Input() {
           <li key={uuidv1()}>{item}</li>
         ))}
       </ul>
+      <article>Created by Jakob Mathieu</article>
     </div>
   );
 }
